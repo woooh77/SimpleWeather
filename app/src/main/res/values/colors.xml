@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#ecf0f1</color>
+    <color name="purple">#8e44ad</color>
+    <color name="green">#ecf0f1</color>
+    <color name="orange">#d35400</color>
+    <color name="thunder">#34495e</color>
+    <color name="drizzle">#1abc9c</color>
+    <color name="foggy">#2ecc71</color>
+    <color name="cloudy">#7f8c8d</color>
+    <color name="snowy">#e67e22</color>
+    <color name="rainy">#3498db</color>
+    <color name="sunny">#f1c40f</color>
+    <color name="night">#2c3e50</color>
+    <color name="promegranate">#c0392b</color>
+</resources>

@@ -1,0 +1,103 @@
+<android.support.v4.widget.SwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipe_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ah.hathi.simpleweather.WeatherActivity$PlaceholderFragment" >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true" >
+<LinearLayout
+    android:id="@+id/picture"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#1abc9c"
+    android:orientation="vertical"
+    android:weightSum="100" >
+
+    <LinearLayout
+ 	    android:layout_width="wrap_content"
+ 	    android:layout_height="wrap_content"
+ 	    android:layout_weight="36" 
+ 	    android:orientation="vertical"
+ 	    android:layout_gravity="center"
+	    android:gravity="center">
+
+	    <TextView
+	        android:id="@+id/city_field"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:gravity="center"
+	        android:textStyle="bold"    
+	        android:textAppearance="?android:attr/textAppearanceLarge" 
+	        android:textSize="40sp"/>
+	</LinearLayout> 
+    
+    <LinearLayout
+        android:id="@+id/more_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+	    android:layout_gravity="center"
+	    android:gravity="center"   
+	    android:layout_weight="36"    
+        android:orientation="vertical">
+	    <TextView
+	        android:id="@+id/weather_icon"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:gravity="center"       
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textSize="100sp"
+	        />
+	    <TextView
+	        android:id="@+id/details_field"
+	        android:layout_width="wrap_content"
+	        android:layout_gravity="center"
+	        android:gravity="center"       
+	        android:layout_height="wrap_content"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        />     
+ 	</LinearLayout>
+    <TextView
+        android:layout_weight="20"
+        android:id="@+id/current_temperature_field"
+        android:layout_width="wrap_content"
+	    android:layout_gravity="center"
+	    android:gravity="center"       
+        android:layout_height="wrap_content"
+		android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="40sp" />
+ 	<TableLayout 
+ 	    android:layout_weight="8"
+ 	    android:orientation="horizontal"
+ 	    android:layout_width="match_parent"
+ 	    android:layout_height="wrap_content"
+ 	    android:stretchColumns="*">
+	    <TableRow android:layout_width="0dp"
+	        android:layout_height="fill_parent">
+ 	<Button
+	     android:id="@+id/days"
+         android:layout_width="wrap_content"
+         android:layout_height="match_parent"
+         android:background="@drawable/custom_button_selector"
+         android:onClick="forecast_days"
+         android:text="TIMELINE"
+         android:textStyle="bold" />
+    <Button
+        android:id="@+id/week"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@drawable/custom_button_selector"
+        android:onClick="forecast_week"
+        android:text="6 DAY"
+        android:textStyle="bold" />
+    </TableRow>
+    </TableLayout>
+</LinearLayout>
+</ScrollView>
+</android.support.v4.widget.SwipeRefreshLayout>

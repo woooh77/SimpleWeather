@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:10:2-63
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:10:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:11:22-76
+application
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:13:5-36:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:17:9-47
+activity#com.example.simpleweather.MainActivity
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:19:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.simpleweather.Tutorial_screen
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:27:9-29:48
+	android:label
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:28:13-69
+activity#com.example.simpleweather.Forecast_activity
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:30:9-32:48
+	android:label
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:31:13-71
+activity#com.example.simpleweather.Forecast_hour_activity
+ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:33:17-35:48
+	android:label
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/AndroidManifest.xml:34:13-76

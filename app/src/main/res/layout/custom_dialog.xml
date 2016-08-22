@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="230dp"
+    android:layout_height="130dp"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="#ecf0f1"
+    android:weightSum="100">
+    <EditText
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:selectAllOnFocus="true"
+		    android:layout_gravity="center"
+		    android:gravity="center"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_weight="50" 
+            android:background="#e67e22"/>
+        
+	<Button
+		    android:layout_gravity="center"
+		    android:gravity="center"
+	        android:layout_weight="50"
+            android:id="@+id/yesexit"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Change City" 
+            android:background="#34495e"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>

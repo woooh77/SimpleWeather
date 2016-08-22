@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/custom_btn_white.xml",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/custom_btn_white.xml"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/foggy.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/foggy.png"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/cloudy.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/cloudy.png"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/change_city.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/change_city.png"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/snowy.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/snowy.png"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/clear.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/clear.png"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/gradient.xml",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/gradient.xml"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/thunder.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/thunder.png"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/drizzle.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/drizzle.png"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/custom_button_selector.xml",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/custom_button_selector.xml"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/more_details.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/more_details.png"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/pull_down.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/pull_down.png"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/custom_btn_grey.xml",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/custom_btn_grey.xml"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/rainy.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/rainy.png"
+    },
+    {
+        "merged": "/Users/balavigneshr/Downloads/SimpleWeather1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/guide_slide.9.png",
+        "source": "/Users/balavigneshr/Downloads/SimpleWeather1/app/src/main/res/drawable-ldpi/guide_slide.9.png"
+    }
+]

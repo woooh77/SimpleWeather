@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Light" />
+	<style name="PauseDialog" parent="@android:style/Theme.Dialog">
+	    <item name="android:windowAnimationStyle">@style/PauseDialogAnimation</item>
+	</style>
+	
+	<style name="PauseDialogAnimation">
+	    <item name="android:windowEnterAnimation">@anim/trans_right_in</item>
+	    <item name="android:windowExitAnimation">@anim/trans_left_out</item>
+	</style> 
+ 
+</resources>
